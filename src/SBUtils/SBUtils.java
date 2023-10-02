@@ -16,17 +16,12 @@ public class SBUtils extends Mod{
         Events.on(ClientLoadEvent.class, e -> {
             //show dialog upon startup
             Time.runTask(10f, () -> {
-                BaseDialog dialog = new BaseDialog("frog");
-                dialog.cont.add("behold").row();
-                dialog.cont.button("I see", dialog::hide).size(100f, 50f);
+                BaseDialog dialog = new BaseDialog("startup");
+                dialog.cont.add("This mod is meant for use in sandbox mode only.").row();
+                dialog.cont.add("This isn't a hard restriction, but you may not find a research tree or obtainable materials.").row();
+                dialog.cont.button("Ok", dialog::hide).size(100f, 50f);
                 dialog.show();
             });
         });
     }
-
-    @Override
-    public void loadContent(){
-        Log.info("Loading some example content.");
-    }
-
 }

@@ -16,7 +16,7 @@ public class SBUtils extends Mod{
         Events.on(ClientLoadEvent.class, e -> {
             //show dialog upon startup
             Time.runTask(10f, () -> {
-                BaseDialog dialog = new BaseDialog("startup");
+                BaseDialog dialog = new BaseDialog("Usage Disclaimer");
                 dialog.cont.add("This mod is meant for use in sandbox mode only.").row();
                 dialog.cont.add("This isn't a hard restriction, but you may not find a research tree or obtainable materials.").row();
                 dialog.cont.button("Ok", dialog::hide).size(100f, 50f);

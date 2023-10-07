@@ -19,7 +19,7 @@ public class SBUtils extends Mod{
                 BaseDialog dialog = new BaseDialog("Usage Disclaimer");
                 dialog.cont.add("This mod is meant for use in sandbox mode only.").row();
                 dialog.cont.add("This isn't a hard restriction, but you may not find a research tree or obtainable materials.").row();
-                dialog.cont.button("Ok", dialog::hide).size(100f, 50f);
+                dialog.cont.button("I understand", dialog::hide).size(200f, 50f);
                 dialog.show();
             });
         });

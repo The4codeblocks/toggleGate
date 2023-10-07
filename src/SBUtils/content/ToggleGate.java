@@ -40,7 +40,7 @@ public class ToggleGate extends Block {
         canOverdrive = false;
         itemCapacity = 0;
 
-        config(Boolean.class, (SwitchBuild entity, Boolean b) -> entity.enabled = b);
+        config(Boolean.class, (ToggleGateBuild entity, Boolean b) -> entity.enabled = b);
     }
     
     @Override

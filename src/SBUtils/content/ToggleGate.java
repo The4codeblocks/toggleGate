@@ -11,7 +11,7 @@ import mindustry.world.*;
 import mindustry.world.meta.*;
 import mindustry.annotations.Annotations.*;
 
-public class ToggleGate extends block {
+public class ToggleGate extends Block {
 
     public Sound clickSound = Sounds.click;
 

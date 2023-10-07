@@ -9,16 +9,15 @@ import mindustry.gen.*;
 import mindustry.type.*;
 import mindustry.world.*;
 import mindustry.world.meta.*;
-import mindustry.annotations.Annotations.*;
 
 public class ToggleGate extends Block {
 
     public Sound clickSound = Sounds.click;
 
-    public @Load("@-on") TextureRegion onRegion;
+    public TextureRegion onRegion = Core.atlas.find(name + "-on");
 
     public float speed = 1f;
-    public boolean invert = false;
+    public boolean invert = true;
 
     public ToggleGate(String name){
         //Switch function

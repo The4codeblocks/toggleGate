@@ -9,6 +9,9 @@ import mindustry.gen.*;
 import mindustry.type.*;
 import mindustry.world.*;
 import mindustry.world.meta.*;
+
+//is this too much?
+import arc.*;
 import mindustry.*;
 
 public class ToggleGate extends Block {

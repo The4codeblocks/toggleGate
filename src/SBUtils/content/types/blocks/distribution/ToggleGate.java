@@ -1,4 +1,4 @@
-package SBUtils.content;
+package SBUtils.content.types.blocks.distribution;
 
 import arc.audio.*;
 import arc.math.*;
@@ -21,7 +21,7 @@ public class ToggleGate extends Block {
     public TextureRegion onRegion = Core.atlas.find(name + "-on");
 
     public float speed = 1f;
-    public boolean invert = true;
+    public boolean invert = false;
 
     public ToggleGate(String name){
         //Switch function

@@ -18,7 +18,7 @@ public class ToggleGate extends Block {
 
     public Sound clickSound = Sounds.click;
 
-    public TextureRegion onRegion = Core.atlas.find(name + "-on");
+    public TextureRegion onRegion = Core.atlas.find(name + "-invert");
 
     public float speed = 1f;
     public boolean invert = false;
@@ -58,7 +58,7 @@ public class ToggleGate extends Block {
         public void draw(){
             super.draw();
 
-            if(enabled){
+            if(enabled == invert){
                 Draw.rect(onRegion, x, y);
             }
         }

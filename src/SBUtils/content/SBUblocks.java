@@ -49,7 +49,6 @@ import static mindustry.type.ItemStack.*;
 
 import SBUtils.content.types.blocks.*;
 import SBUtils.content.types.blocks.distribution.*;
-import SBUtils.content.types.blocks.distribution.ToggleGate; //why
 
 public class SBUblocks {
     public static Block

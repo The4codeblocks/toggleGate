@@ -1,5 +1,6 @@
 package SBUtils;
 
+import SBUtils.content.SBUblocks;
 import arc.*;
 import arc.util.*;
 import mindustry.*;
@@ -23,5 +24,10 @@ public class SBUtils extends Mod{
                 dialog.show();
             });
         });
+    }
+
+    @Override
+    public void loadContent(){
+        SBUblocks.load();
     }
 }

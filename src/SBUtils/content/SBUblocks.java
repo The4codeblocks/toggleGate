@@ -7,6 +7,11 @@ import arc.util.*;
 
 import mindustry.*;
 
+import static mindustry.Vars.*;
+import static mindustry.type.ItemStack.*;
+
+import SBUtils.content.types.*;
+
 public class SBUblocks {
     public static Block
 

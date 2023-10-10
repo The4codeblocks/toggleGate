@@ -33,6 +33,7 @@ import mindustry.logic.*;
 import mindustry.type.*;
 import mindustry.type.unit.*;
 import mindustry.ui.*;
+import mindustry.world.*;
 import mindustry.world.blocks.*;
 import mindustry.world.blocks.environment.*;
 import mindustry.world.blocks.power.*;

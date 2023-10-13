@@ -1,17 +1,17 @@
 #the mod name as displayed in-game
-displayName: "Sandbox Utilities Java"
+displayName: "Toggleable Flow Gate"
 
 #the internal name of your mod
-name: "sandbox-utilities-java"
+name: "toggleable-flow-gate"
 
 #your name
 author: "[sk[]y]T4[s[]tat]SC [gr[]ay][Mass <=> [blu[]e]Energy][[]][[]][[]][[]]"
 
 #the fully qualified main class of the mod
-main: "SBUtils.SBUtils"
+main: "toggleGate.toggleGate"
 
 #the mod description as seen in the mod dialog
-description: "A mod that improves the sandbox playstyle by adding cosmetic buildings and tools to make your own."
+description: "Adds a toggleable overflow/undeflow gate."
 
 #the mod version
 version: 1.0

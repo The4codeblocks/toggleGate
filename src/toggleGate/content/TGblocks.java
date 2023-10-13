@@ -1,4 +1,4 @@
-package SBUtils.content;
+package toggleGate.content;
 
 import arc.*;
 import arc.audio.*;
@@ -47,10 +47,10 @@ import java.util.*;
 import static mindustry.Vars.*;
 import static mindustry.type.ItemStack.*;
 
-import SBUtils.content.types.blocks.*;
-import SBUtils.content.types.blocks.distribution.*;
+import toggleGate.content.types.blocks.*;
+import toggleGate.content.types.blocks.distribution.*;
 
-public class SBUblocks {
+public class TGblocks {
     public static Block
 
     toggleGate;

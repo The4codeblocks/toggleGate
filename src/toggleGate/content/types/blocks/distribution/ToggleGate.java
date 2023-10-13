@@ -1,4 +1,4 @@
-package SBUtils.content.types.blocks.distribution;
+package toggleGate.content.types.blocks.distribution;
 
 import arc.audio.*;
 import arc.math.*;

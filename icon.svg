@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="1024"
+   height="1024"
+   viewBox="0 0 1024 1024"
+   sodipodi:docname="icon.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#4c4c4c"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#262626"
+     showgrid="true"
+     inkscape:zoom="0.75878906"
+     inkscape:cx="303.11454"
+     inkscape:cy="467.19176"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="32"
+       spacingy="32"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="4"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="main"
+     style="display:inline">
+    <path
+       style="display:inline;fill:#6e7080;fill-opacity:1"
+       d="M 0,0 H 256 V 128 L 128,256 H 0 Z"
+       id="path1" />
+    <path
+       style="fill:#6e7080;fill-opacity:1"
+       d="M 0,992 V 768 H 128 V 384 h 128 v 288 l 32,32 z"
+       id="path2" />
+    <path
+       style="fill:#6e7080;fill-opacity:1"
+       d="m 32,1024 288,-288 32,32 h 128 l -64,64 v 64 H 256 l 0,128 z"
+       id="path3" />
+    <path
+       style="fill:#6e7080;fill-opacity:1"
+       d="M 768,1024 V 896 L 896,768 h 128 v 256 z"
+       id="path4" />
+    <path
+       style="fill:#6e7080;fill-opacity:1"
+       d="M 768,128 V 0 H 992 L 816,176 Z"
+       id="path5"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#6e7080;fill-opacity:1"
+       d="M 896,256 848,208 1024,32 v 224 z"
+       id="path6"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#6e7080;fill-opacity:1"
+       d="M 384,576 V 448 l 64,-64 h 128 l 16,16 -192,192 z"
+       id="path7"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:#6e7080;fill-opacity:1"
+       d="m 640,448 v 128 l -64,64 H 448 L 432,624 624,432 Z"
+       id="path7-3"
+       sodipodi:nodetypes="ccccccc" />
+    <rect
+       style="fill:#4a4b53;fill-opacity:1"
+       id="rect7"
+       width="128"
+       height="512"
+       x="0"
+       y="256" />
+    <rect
+       style="fill:#4a4b53;fill-opacity:1;stroke-width:1.41421"
+       id="rect8"
+       width="512"
+       height="128"
+       x="256"
+       y="0" />
+    <rect
+       style="fill:#4a4b53;fill-opacity:1"
+       id="rect9"
+       width="128"
+       height="512"
+       x="896"
+       y="256" />
+    <rect
+       style="fill:#4a4b53;fill-opacity:1"
+       id="rect10"
+       width="512"
+       height="128"
+       x="256"
+       y="896" />
+    <path
+       style="fill:#4a4b53;fill-opacity:1"
+       d="M 288,704 256,672 V 352 l 96,-96 h 320 l 32,32 -112,112 -16,-16 H 448 l -64,64 v 128 l 16,16 z"
+       id="path10" />
+    <path
+       style="fill:#4a4b53;fill-opacity:1"
+       d="m 320,736 112,-112 16,16 h 128 l 64,-64 V 448 l -16,-16 112,-112 32,32 v 320 l -96,96 H 352 Z"
+       id="path11" />
+    <path
+       style="fill:#989aa4;fill-opacity:1"
+       d="M 128,384 V 256 L 256,128 h 512 l 48,48 -112,112 -32,-32 H 352 l -96,96 v 32 z"
+       id="path12" />
+    <path
+       style="fill:#989aa4;fill-opacity:1"
+       d="M 768,480 V 352 l -32,-32 112,-112 48,48 v 160 h -64 z"
+       id="path13" />
+    <path
+       style="fill:#989aa4;fill-opacity:1"
+       d="m 768,544 64,64 h 64 V 768 L 768,896 H 608 v -64 l -64,-64 h 128 l 96,-96 z"
+       id="path14" />
+    <path
+       style="fill:#d2816b;fill-opacity:1"
+       d="m 416,896 v -64 l 64,-64 h 64 l 64,64 v 64 z"
+       id="path16" />
+    <path
+       style="fill:#fdd37f;fill-opacity:1"
+       d="m 768,544 v -64 l 64,-64 h 64 v 192 h -64 z"
+       id="path17" />
+    <path
+       style="fill:#ffffff;fill-opacity:1"
+       d="M 0,992 992,0 h 32 V 32 L 32,1024 H 0 Z"
+       id="path18" />
+  </g>
+</svg>

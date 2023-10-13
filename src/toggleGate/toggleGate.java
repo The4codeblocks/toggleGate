@@ -16,6 +16,6 @@ public class toggleGate extends Mod{
 
     @Override
     public void loadContent(){
-        TBblocks.load();
+        TGblocks.load();
     }
 }

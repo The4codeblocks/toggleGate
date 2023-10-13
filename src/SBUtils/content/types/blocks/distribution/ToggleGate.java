@@ -18,10 +18,16 @@ public class ToggleGate extends Block {
 
     public Sound clickSound = Sounds.click;
 
-    public TextureRegion onRegion = Core.atlas.find(name + "-invert");
+    public TextureRegion onRegion;
 
     public float speed = 1f;
     public boolean invert = false;
+
+    @Override
+    public void load() {
+        super.load();
+        onRegion = Core.atlas.find(name + "-invert");
+    };
 
     public ToggleGate(String name){
         //Switch function

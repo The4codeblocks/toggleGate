@@ -23,4 +23,4 @@ minGameVersion: 145
 java: true
 
 #repository link
-repo: The4codeblocks/toggleGate
+repo: "The4codeblocks/toggleGate"

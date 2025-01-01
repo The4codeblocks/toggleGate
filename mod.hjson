@@ -11,7 +11,7 @@ author: "[sk[]y]T4[s[]tat]SC [gr[]ay][Mass <=> [blu[]e]Energy][[]][[]][[]][[]]"
 main: "toggleGate.toggleGate"
 
 #the mod description as seen in the mod dialog
-description: "Adds a toggleable overflow/undeflow gate."
+description: "Adds a toggleable overflow/underflow gate."
 
 #the mod version
 version: 1.0
